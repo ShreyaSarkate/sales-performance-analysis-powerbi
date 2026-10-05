@@ -78,3 +78,36 @@ DIVIDE(
     [Total Orders],
     0
 )
+
+📈 Dashboard Features
+- KPI Cards
+- Sales Trend Analysis
+- Regional Sales Analysis
+- Product Analysis
+- Customer Type Analysis
+- Payment Method Analysis
+- Interactive Filters
+- Time-based Analysis
+
+💡 Business Insights
+The dashboard can be used to understand:
+- Overall revenue and profitability
+- Sales performance across regions
+- Product-level sales performance
+- Customer segment contribution
+- Sales trends over time
+- Average revenue generated per order
+
+📷 Dashboard Preview
+<img width="1920" height="1019" alt="Power BI Desktop 05-10-2026 16_39_01" src="https://github.com/user-attachments/assets/326c686b-64e1-4d3b-a49d-dc36486b12ca" />
+
+ 
+📚 Learning Reference
+This project was developed as a hands-on Power BI learning project using the following tutorial as a reference:
+YouTube Tutorial:
+https://youtu.be/v71YI0sm-TI
+
+The project was implemented while learning Power Query, DAX, data modeling, Calendar tables, KPI creation, and Power BI visualization techniques.
+
+~Shreya Sarkate
+BE Computer Engineering
